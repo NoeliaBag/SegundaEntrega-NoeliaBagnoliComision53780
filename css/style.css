@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.logo-meetlang img {
+    height: 250px;
+    width: 470px;
+}
+
+.navegacion ul{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+h1{
+    background-color:#B794FD ;
+    font-family: 'Quicksand', sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+}
+
+.lista-de-idiomas {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.lista-de-idiomas img{
+    height: 130px;
+    width: 200px;
+
+}
+
+.blog {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 740px;
+    
+}
+
+.julia {
+    border: solid black;
+    background-color: #B794FD ;
+    width: 400px;
+    font-style: italic;
+
+}
+
+.kevin {
+    border: solid black;
+    background-color:#B794FD ;
+    width: 400px;
+    font-style: italic;
+
+}
+
+.emily {
+    border: solid black;
+    background-color:#B794FD ;
+    width: 400px;
+    font-style: italic;
+
+}
+
+.ji {
+    border: solid black;
+    background-color:#B794FD ;
+    width: 400px;
+    font-style: italic;
+}
+
+.personas img{
+    margin-left: 600px;
+    height: 550px;
+    width: 700px;
+    overflow: hidden;
+}
+
+.personas p{
+    border: solid black;
+    background-color:#B794FD ;
+    width: 700px;
+    font-style:inherit;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 600px;
+
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+    border: solid #B794FD ;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+.blog .videos {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+
+.imagen-home{
+    margin-left: 470px
+    
+}
+
+.homebanderas img {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+
+}
+
+.formulario {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: #B794FD;
+
+}
+
+.formulario img {
+    margin-left: 300px;
+    margin-top: 30px;
+
+}
+
