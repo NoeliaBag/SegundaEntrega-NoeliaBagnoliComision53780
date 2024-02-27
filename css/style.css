@@ -125,13 +125,17 @@ h2{
     font-family: 'Quicksand', sans-serif;
     font-size: 25px;
     font-weight: 700;
-    color: #B794FD;
+    color: #ffffff;
+    background-image: url("https://media.licdn.com/dms/image/D5612AQGEKeNh_8JV_Q/article-cover_image-shrink_720_1280/0/1666810700970?e=2147483647&v=beta&t=9tbpXXApp7BGEjJwLSA7TI34UHE16r1HusO0toXyOPw");
 
 }
 
-.formulario img {
-    margin-left: 300px;
-    margin-top: 30px;
+.container-fluid{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
 
 }
-
