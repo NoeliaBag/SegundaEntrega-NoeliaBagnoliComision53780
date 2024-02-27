@@ -3,8 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 .logo-meetlang img {
-    height: 250px;
-    width: 470px;
+    width: 200px;
 }
 
 .navegacion ul{
@@ -74,12 +73,14 @@ h1{
 
 .testimonios{
     display: flex;
-    align-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .videos{
     display: flex;
-    align-content: center;
+    align-items: center;
+    flex-direction: column;
 
 }
 .personas{
@@ -123,11 +124,6 @@ h2{
 
 }
 
-.imagen-home{
-    margin-left: 470px
-    
-}
-
 .homebanderas img {
     height: 120px;
     width: 120px;
@@ -152,4 +148,23 @@ h2{
     align-items: center;
     justify-content: space-between
 
+}
+
+.imagen-home{
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width: 400px) {
+    .imagen-home {
+        width: 100vw;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 400px) {
+    .lista-de-idiomas {
+        width: 100vw;
+        justify-content: flex-start;
+    }
 }
