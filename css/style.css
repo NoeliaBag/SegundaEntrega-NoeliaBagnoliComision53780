@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
@@ -37,7 +38,6 @@ h1{
     font-family: 'Quicksand', sans-serif;
     font-size: 25px;
     font-weight: 500;
-    margin-left: 740px;
     
 }
 
@@ -72,6 +72,20 @@ h1{
     font-style: italic;
 }
 
+.testimonios{
+    display: flex;
+    align-content: center;
+}
+
+.videos{
+    display: flex;
+    align-content: center;
+
+}
+.personas{
+    display: flex;
+    align-content: center;
+}
 .personas img{
     margin-left: 600px;
     height: 550px;
